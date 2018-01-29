@@ -1,3 +1,6 @@
+#Script criado em RStudio 3.4
+#Qualquer duvida mandar email para daniloktz@gmail.com
+
 baseA <- read.csv("C:\\Users\\Corporativo\\baseA.csv")
 baseB <- read.csv("C:\\Users\\Corporativo\\baseB.csv")
 #le os dois arquivos
